@@ -9,17 +9,25 @@ The proliferation of energy efficient and/or clean sources of energy has driven 
 **Platforms Used**
 
 Google Colab
+
 Git/GitHub
 
 **Technologies Used**
 
 Python
+
 Pandas Library
+
 Numpy Library
+
 Matplotlib Library
+
 Seaborn Library
+
 Standard Library
+
 SciPy Library
+
 Statsmodels Library
 
 **Motivation**
