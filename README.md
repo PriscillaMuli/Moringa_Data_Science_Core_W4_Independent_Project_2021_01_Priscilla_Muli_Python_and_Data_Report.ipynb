@@ -33,3 +33,6 @@ Statsmodels Library
 **Motivation**
 
 The project goal is to check a hypothesis that on weekdays in France for two randomly selected Postal Codes whether the mean number of blue cars taken is different.
+
+**Contact Details**
+https://github.com/PriscillaMuli
